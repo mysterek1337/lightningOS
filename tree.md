@@ -6,4 +6,3 @@
 /data/ - pictures, logos, sounds
 /apps/ - sensors & apps & everything
 /updates/ - updates
-/main/languages/ - languages
