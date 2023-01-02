@@ -6,4 +6,4 @@
 /data/ - pictures, logos, sounds
 /apps/ - sensors & apps & everything
 /updates/ - updates
-/languages/ - languages
+/main/languages/ - languages
